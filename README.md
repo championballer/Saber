@@ -3,7 +3,7 @@ An image processing software which exports timetable
 
 Should contain an OCR for detecting text in PDF page. The detected text should then be outputted accordingly setup in excel file in proper table format. 
 
-1. OCR : Stage1: OCR framework in python, Stage2:self implemented using deep learning 
+1. OCR : Stage1: OCR framework in python, Stage2:self implemented using deep learning (https://medium.com/syncedreview/stn-ocr-a-single-neural-network-for-text-detection-and-text-recognition-220debe6ded4)
 2. Formatting the recognised text as per requirements and outputting it an excel sheet or the required format.
 
 Features :
