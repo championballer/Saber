@@ -9,3 +9,5 @@ Should contain an OCR for detecting text in PDF page. The detected text should t
 Might contain an option to ignore certain text based on the input by the user. 
 
 Dataframe output post array making from recognised text. 
+
+Assumption : The input image/pdf should be well edited and in monochrome and should have a table(_the timetable_) that is to be recognised.
