@@ -8,7 +8,7 @@ TIME/DAYS,8:00-9:00,9:00-10:00,10:00-11:00,11:00-12:00,12:00-1:00,1:00-2:00,2:00
 MONDAY,,,,,,,ITD07(FH),,,
 ,,,,ITD18/EO,,ITC19,,,EO004,
 ,,,ITD12,,,,ITD18(T1),ITD18(T2),,ITC21
-TUESDAY,,,,005,,,,,,
+TUESDAY,,,,5,,,,,,
 ,,,ITC19(T1),,,,,ITC19,,
 ,,,,EO003,,,,,Free slot for seminars/ meetings,
 WEDNESDAY,ITC21,ITC20,,,EO003(T1),EO003(T2),,,,
