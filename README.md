@@ -16,7 +16,7 @@ Dataframe output post array making from recognised text.
 
 Assumption : The input image/pdf should be well edited and in monochrome and should have a table(_the timetable_) that is to be recognised.
 
-# Current situation:
+# Check points:
 
 ![Checkpoint1](https://raw.github.com/championballer/pdftotimetable/master/Checkpoint1.png)
 ![Checkpoint2](https://raw.github.com/championballer/pdftotimetable/master/Checkpoint2.png)
