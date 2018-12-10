@@ -18,4 +18,6 @@ Assumption : The input image/pdf should be well edited and in monochrome and sho
 
 # Current situation:
 
-![Test1](https://raw.github.com/championballer/pdftotimetable/master/Test1.png)
+![Checkpoint1](https://raw.github.com/championballer/pdftotimetable/master/Checkpoint1.png)
+![Checkpoint2](https://raw.github.com/championballer/pdftotimetable/master/Checkpoint2.png)
+
