@@ -15,3 +15,7 @@ Features :
 Dataframe output post array making from recognised text. 
 
 Assumption : The input image/pdf should be well edited and in monochrome and should have a table(_the timetable_) that is to be recognised.
+
+# Current situation:
+
+![Test1](https://raw.github.com/championballer/PolkaFighter/master/Test1.png)
