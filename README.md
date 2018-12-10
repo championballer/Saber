@@ -20,4 +20,4 @@ Assumption : The input image/pdf should be well edited and in monochrome and sho
 
 ![IT2_Sem6_Checkpoint1](https://raw.github.com/championballer/pdftotimetable/master/IT2_Sem6_Checkpoint1.png)
 ![IT2_Sem6_Checkpoint2](https://raw.github.com/championballer/pdftotimetable/master/IT2_Sem6_Checkpoint2.png)
-![IT1_Sem2_PreFinalCleaning](https://raw.github.com/championballer/pdftotimetable/master/IT1_Sem2_PreFinalCleaning)
+![IT1_Sem2_PreClean](https://raw.github.com/championballer/pdftotimetable/master/IT1_Sem2_PreClean.png)
