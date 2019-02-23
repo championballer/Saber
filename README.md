@@ -1,5 +1,5 @@
-# Time Table Integrator (TTI)
-An image processing software which exports timetable
+# Saber
+An image processing software which exports timetable and reports clashes for efficient and correct elective selection.
 
 Should contain an OCR for detecting text in PDF page. The detected text should then be outputted accordingly setup in excel file in proper table format. https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/
 
